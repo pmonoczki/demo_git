@@ -1,2 +1,2 @@
-print("Hello Rozi")
+print("Hello Codecoolers!")
 a = []
